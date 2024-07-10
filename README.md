@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome to my profile!
 
-<!--
-**enjinil/enjinil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend engineer who enjoy working with React and Vue.
 
-Here are some ideas to get you started:
+I am currently learning backend stuffs by freelancing using Elixir and Phoenix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=violet)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=scss&logoColor=white&color=yellow)
+
+![](https://img.shields.io/badge/OS-mac-informational?style=flat&logo=apple&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=vscode&logoColor=white&color=2057f7)
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2057f7)
