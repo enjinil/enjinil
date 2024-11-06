@@ -1,8 +1,8 @@
 ## Welcome to my profile!
 
-I am a frontend engineer who enjoy working with React and Vue.
+Hey! 👋 I'm a Frontend Dev with 5 years under my belt, mainly working with React and TypeScript. 
 
-I am currently learning backend stuffs by freelancing using Elixir and Phoenix.
+These days, I'm diving into Elixir (Phoenix) and Japanese!
 
 ### 🎮 Technologies & Tools
 
