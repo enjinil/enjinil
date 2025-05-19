@@ -1,10 +1,8 @@
-## Welcome to my profile!
+hey! 👋 i'm a Frontend Engineer mainly working with Vue and TypeScript. 
 
-Hey! 👋 I'm a Frontend Dev with 5 years under my belt, mainly working with React and TypeScript. 
+currently learning Go and Japanese.
 
-These days, I'm diving into Elixir (Phoenix) and Japanese!
-
-### 🎮 Technologies & Tools
+### 🎮 technologies & tools
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2057f7)
